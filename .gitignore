@@ -1,13 +1,14 @@
-# Virtual Environment
-.venv/
-
-# Environment Variables
-.env
-
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment variables
+.env
 
 # IDE
 .vscode/
