@@ -1,4 +1,4 @@
-# AutoMind
+# Velkris
 
 ## Secure Supervisory Multi-Agent LLM Engineering Copilot for Software-Defined Vehicles
 
