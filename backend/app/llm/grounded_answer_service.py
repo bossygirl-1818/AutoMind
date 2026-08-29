@@ -45,7 +45,7 @@ class GroundedAnswerRequest:
 
     query: str
 
-    top_k: int = 8
+    top_k: int = 3
 
     score_threshold: float | None = None
 
@@ -53,7 +53,7 @@ class GroundedAnswerRequest:
 
     temperature: float = 0.1
 
-    max_output_tokens: int = 1200
+    max_output_tokens: int = 400
 
     require_citations: bool = True
 
