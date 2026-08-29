@@ -34,3 +34,13 @@ storage/chromadb/*.sqlite3
 storage/chromadb/chroma.sqlite3
 
 /backend/storage/chromadb/chroma.sqlite3
+
+storage/chromadb/*/
+
+# Local test files
+/test files/
+
+# Local generated ChromaDB data
+/backend/storage/chromadb/
+# Local test files
+/test files/
