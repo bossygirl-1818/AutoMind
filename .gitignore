@@ -28,4 +28,9 @@ uploads/
 .DS_Store
 Thumbs.db
 # Local ChromaDB database
+/backend/storage/chromadb/*.sqlite3
 storage/chromadb/*.sqlite3
+
+storage/chromadb/chroma.sqlite3
+
+/backend/storage/chromadb/chroma.sqlite3
