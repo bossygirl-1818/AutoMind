@@ -27,3 +27,5 @@ uploads/
 # OS
 .DS_Store
 Thumbs.db
+# Local ChromaDB database
+storage/chromadb/*.sqlite3
